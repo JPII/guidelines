@@ -1,4 +1,4 @@
-guidelines
+milestones
 ==========
 
 A summary of milestones and their usage.
