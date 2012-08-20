@@ -9,7 +9,8 @@ A brief summary of the organization guidelines. Each section is futher explained
 * No trailing whitespaces. Use sun/oracle coding standards if in doubt.
 * Absolutely no already-implemented classes or methods methods. Use interfaces, and have util classes.
 * Brackets do not get their own line, unless they are ending a block
-* Based off of http://geosoft.no/development/javastyle.html
+* This is only a summary, see http://geosoft.no/development/javastyle.html for a full list
+* Alternatively, use http://www.leepoint.net/notes-java/principles_and_practices/style/style-practices-summary.html for a summary
 
 ## Issues
 * Used to track features, issues, and anything else that needs to be done

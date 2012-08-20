@@ -9,6 +9,10 @@ A summary of Java coding standards. These must be followed for all Java code.
 * No trailing whitespaces. Use sun/oracle coding standards if in doubt.
 * Absolutely no already-implemented classes or methods methods. Use interfaces, and have util classes.
 * Brackets do not get their own line, unless they are ending a block
-* Based off of http://geosoft.no/development/javastyle.html (use this for reference)
+* This is only a summary, see http://geosoft.no/development/javastyle.html for a full list
+* Alternatively, use http://www.leepoint.net/notes-java/principles_and_practices/style/style-practices-summary.html for a summary
+
+## Purpose
+* Clean, readable, reliable code
 
 *To be expanded...*
