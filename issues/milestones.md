@@ -11,7 +11,7 @@ A summary of milestones and their usage.
 * Avoid creating more than two milestones at a time
 
 # Deadlines
-* Must be realisitc and achievable
+* Must be realistic and achievable
 * Overdue deadlines are critical and must be resolved
 * Upon creating a milestone, assign a deadline and description
 * Description should outline the vision for the milestone (for example, to improve the user interface)
