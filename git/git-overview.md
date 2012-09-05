@@ -13,5 +13,6 @@ A summary of git.
 ## Tips
 * Avoid editing more files than needed
 * Commits don't need to be pushed once created, but the sooner the better
+* Follow @NavalBattle for real-time commit logs
 
 *To be expanded...*
